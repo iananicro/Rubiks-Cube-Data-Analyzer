@@ -1,5 +1,7 @@
 Description
 -----
+This program was my Final Project for my ITS462 Application Integration from December 2023.
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/995b809d-77fd-4a87-bc16-294a08a4cf8f">
 
 Rubik's Cube Data Analyzer is a Python and XML based program that let's the user view various information about a specified Rubik's Cube
@@ -27,8 +29,6 @@ Along with the standard console application based information viewing, with the 
 
 Dataset Explanation
 -----
-This program was my Final Project for my ITS462 Application Integration from December 2023.
-
 The dataset that I used compiles data from thousands of different Rubik’s Cube solves, including the solve ID, solve time, scramble and date solved. 
 
 This dataset contains information beginning on 7 September 2020, and ending on 23 August 2021. It would’ve contained a few thousand more solves up to around October of 2023, but unfortunately it was not backed up.
